@@ -15,8 +15,9 @@ Dataset Link - https://www.kaggle.com/c/quora-question-pairs
 
 ---
 ## Folder Structure
-duplicate-question-detector/
-│
+duplicate-question-detector/.
+
+
 ├── app.py                    # Streamlit UI logic.
 
 ├── model.pkl                 # Trained ML model.
