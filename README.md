@@ -17,12 +17,18 @@ Dataset Link - https://www.kaggle.com/c/quora-question-pairs
 ## Folder Structure
 duplicate-question-detector/
 │
-├── app.py                    # Streamlit UI logic
-├── model.pkl                 # Trained ML model
-├── preprocessing.py          # Custom functions for cleaning & feature extraction
-├── requirements.txt          # Dependencies
-├── README.md                 # Project documentation
-├── utils/                    # (Optional) Utility scripts
+├── app.py                    # Streamlit UI logic.
+
+├── model.pkl                 # Trained ML model.
+
+├── preprocessing.py          # Custom functions for cleaning & feature extraction.
+
+├── requirements.txt          # Dependencies.
+
+├── README.md                 # Project documentation.
+
+├── utils/                    # (Optional) Utility scripts.
+
 └── data/                     # Sample input data
 
 
@@ -73,5 +79,9 @@ The user interface allows:
 
 ## To run:
 
-```bash
-streamlit run app.py
+1. Clone the Repository
+2. Create a Virtual Environment(Optional)
+3.  Install Required Packages
+4.  Run the Streamlit App
+
+
